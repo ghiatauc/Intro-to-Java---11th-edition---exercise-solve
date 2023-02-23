@@ -14,8 +14,6 @@ public class ex02_01 {
 		double kilometers = miles * 1.6;
 		
 		System.out.println(miles+" miles is "+(int)(kilometers*10)/10.0+" kilometers");
-		
-		
 
 	}
 
