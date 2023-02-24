@@ -4,4 +4,5 @@
 - You can found the book at:
 - https://biblio.co.uk/book/introduction-java-programming-data-structures-comprehensive/d/1481333949?aid=frg&gclid=Cj0KCQiA3eGfBhCeARIsACpJNU-f9SVAh2GSHNG8QjtHXQDNU53RqG3USV-K2zkzaooFMCARFA-vqsIaAjjoEALw_wcB
 - https://www.amazon.co.uk/Introduction-Programming-Structures-Comprehensive-Version/dp/1292221879
-A
+- I will try to solve and post all solutions, but it depends by my free time
+- If you find a better fell free to add it...
