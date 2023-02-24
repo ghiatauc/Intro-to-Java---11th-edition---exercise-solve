@@ -12,9 +12,9 @@ public class exercise_04 {
 	}
 
 }
-
 /*
-(Print a table) Write a program that displays the following table:
+(Print a table)
+Write a program that displays the following table:
 a a^2 a^3 a^4
 1 1 1 1
 2 4 8 16
