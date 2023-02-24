@@ -3,7 +3,7 @@
  * "Introduction to Java Programming" by Y. Daniel Liang 11th Edition
  * <b>
  * <p>
- * Chapter 01 - Introduction to Computers, Programs, and Java
+ * Chapter 02 - Elementary Programming
  * </p>
  *
  * @author ghiatauc
