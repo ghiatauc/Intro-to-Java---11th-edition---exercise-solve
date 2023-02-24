@@ -8,4 +8,4 @@
  *
  * @author ghiatauc
  */
-package chapter01_ex;
+package chapter02_ex;
