@@ -13,4 +13,5 @@ public class exercise_02 {
 
 }
 
-//(Display five messages) Write a program that displays I love Java five times.
+//(Display five messages)
+//Write a program that displays I love Java five times.
