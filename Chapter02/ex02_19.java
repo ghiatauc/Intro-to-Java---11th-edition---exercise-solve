@@ -26,12 +26,6 @@ public class ex02_19 {
 		double area = Math.pow(s * (s - side12) * (s - side13) * (s - side23), 0.5);
 		
 		System.out.println("The are of the triangle is " + area);
-		/*
-		//de inversat minusul, aplicare modul
-		double area = (x1 * (y2 -y3) + x2 * (y3 - y1) + x3 * (y1 - y2)) / 2.0;
-		area = Math.abs(area);
-		System.out.println("The are of the triangle is "+(int)(area * 100) / 100.0);
-		*/
 	}
 
 }
