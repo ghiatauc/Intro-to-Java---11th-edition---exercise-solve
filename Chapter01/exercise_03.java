@@ -11,9 +11,9 @@ public class exercise_03 {
 	}
 
 }
-
 /*
-(Display a pattern) Write a program that displays the following pattern:
+(Display a pattern)
+Write a program that displays the following pattern:
 	 J 
 	J aaa v vaaa
 	J J aa v v a a 
