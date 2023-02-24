@@ -9,3 +9,4 @@
 
 # Table of content
 - <a href="https://github.com/ghiatauc/Introduction_to_Java_Programming/tree/main/Chapter01">Chapter01 - Introduction to Computers, Programs, and Java</a>
+- <a href="https://github.com/ghiatauc/Introduction_to_Java_Programming/tree/main/Chapter02">Chapter02 - Elementary Programming</a>
