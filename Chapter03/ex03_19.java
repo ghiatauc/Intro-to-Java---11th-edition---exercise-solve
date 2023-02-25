@@ -27,23 +27,6 @@ public class ex03_19 {
 			System.out.println("Invalid input!");
 		}
 			
-		/*
-		double xa = input.nextDouble();
-		double ya = input.nextDouble();
-		
-		double xb = input.nextDouble();
-		double yb = input.nextDouble();
-		
-		double xc = input.nextDouble();
-		double yc = input.nextDouble();
-		
-		double ab = Math.sqrt(Math.pow(xa - xb, 2) + Math.pow(ya - yb, 2));
-		double bc = Math.sqrt(Math.pow(xb - xc, 2) + Math.pow(yb - yc, 2));
-		double ac = Math.sqrt(Math.pow(xa - xc, 2) + Math.pow(ya - yc, 2));
-		*/
-		//boolean isValid = ab + 
-		//input.close();
-
 	}
 
 }
