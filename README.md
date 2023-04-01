@@ -14,3 +14,4 @@ Designed to support an introductory programming course,Introduction to Java Prog
 - <a href="https://github.com/ghiatauc/Introduction_to_Java_Programming/tree/main/Chapter03">Chapter03 - Selections</a>
 - <a href="https://github.com/ghiatauc/Introduction_to_Java_Programming/tree/main/Chapter04">Chapter04 - Mathematical Functions, Characters, and Strings</a>
 - <a href="https://github.com/ghiatauc/Introduction_to_Java_Programming/tree/main/Chapter05">Chapter05 - Loops</a>
+- <a href="https://github.com/ghiatauc/Introduction_to_Java_Programming/tree/main/Chapter06">Chapter06 - Methods</a>
