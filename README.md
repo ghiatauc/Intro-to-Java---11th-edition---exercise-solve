@@ -12,3 +12,5 @@ Designed to support an introductory programming course,Introduction to Java Prog
 - <a href="https://github.com/ghiatauc/Introduction_to_Java_Programming/tree/main/Chapter01">Chapter01 - Introduction to Computers, Programs, and Java</a>
 - <a href="https://github.com/ghiatauc/Introduction_to_Java_Programming/tree/main/Chapter02">Chapter02 - Elementary Programming</a>
 - <a href="https://github.com/ghiatauc/Introduction_to_Java_Programming/tree/main/Chapter03">Chapter03 - Selections</a>
+- <a href="https://github.com/ghiatauc/Introduction_to_Java_Programming/tree/main/Chapter04">Chapter04 - Selections</a>
+- <a href="https://github.com/ghiatauc/Introduction_to_Java_Programming/tree/main/Chapter05">Chapter05 - Loops</a>
